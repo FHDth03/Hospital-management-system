@@ -1,4 +1,4 @@
-# Healthcare Management System
+# Hospital Management System
 
 ## Overview
 A web-based application for managing patient records and appointments in a healthcare facility. The system allows for:
