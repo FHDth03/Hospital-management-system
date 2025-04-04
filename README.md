@@ -76,3 +76,7 @@ A web-based application for managing patient records and appointments in a healt
 - HTML/CSS/JavaScript for frontend interface
 
 ## Screenshots
+<img width="1437" alt="Screenshot 2025-04-04 at 4 57 15 PM" src="https://github.com/user-attachments/assets/a4804ef7-1835-4422-bca6-8f4ff5214ffc" />
+<img width="1437" alt="Screenshot 2025-04-04 at 5 42 50 PM" src="https://github.com/user-attachments/assets/70c803c1-7073-410f-9d18-4463a4cf1a94" />
+<img width="1437" alt="Screenshot 2025-04-04 at 5 42 59 PM" src="https://github.com/user-attachments/assets/196227f1-581b-4d17-a376-33c716eb374b" />
+<img width="1437" alt="Screenshot 2025-04-04 at 5 43 05 PM" src="https://github.com/user-attachments/assets/8df98b9d-205b-476f-ab02-dc622df6aad4" />
